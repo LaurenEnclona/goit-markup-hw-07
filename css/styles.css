@@ -150,6 +150,7 @@ img {
     justify-content: space-between;
     align-items: center;
     gap: 40px;
+    /* font-size: 16px; */
   }
 
   /* .contacts-menu-item:not(:last-child) {
@@ -209,6 +210,9 @@ img {
 
   @media screen and (min-width: 768px) {
     font-size: 12px;
+  }
+  @media screen and (min-width: 1158px) {
+    font-size: 16px;
   }
 }
 
